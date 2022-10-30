@@ -1,0 +1,20 @@
+{
+  "name": "h-n-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "custom-components"
+  ],
+  "author": "uhyo <uhyo@uhy.ooo>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.1-beta",
+    "vite": "^3.2.1"
+  }
+}
